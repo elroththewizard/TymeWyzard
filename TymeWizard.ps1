@@ -3,6 +3,7 @@
 #https://ascii.co.uk/art/wizard
 #https://ascii.co.uk/art/mountain
 #https://ascii.co.uk/art/towers
+#https://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20
 function prologue () {
     Write-Host -NoNewLine -ForegroundColor white "You are SORCERER TLN52-76YY of THE CONTINUITY-KEEPERS"
     Write-Host `r
